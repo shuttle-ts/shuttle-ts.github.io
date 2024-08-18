@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /proxy
+Allow: /clients
+Allow: /self
+Disallow: /
