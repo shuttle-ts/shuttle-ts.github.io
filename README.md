@@ -26,7 +26,7 @@
         <tr>
             <td rowspan="2">GUI 客户端</td>
             <td>
-                <a href="https://clash-verge-rev.github.io/install.html">Clash Verge rev</a>
+                <a href="https://clash-verge-rev.github.io/install.html">Clash Verge rev</a>、<a href="https://github.com/GUI-for-Cores/GUI.for.Clash">GUI.for.Clash</a>
             </td>
             <td>
                 <a href="https://github.com/MetaCubeX/ClashMetaForAndroid/releases">Clash Meta</a>
@@ -65,7 +65,7 @@
         </tr>
         <tr>
             <td rowspan="2">GUI 客户端</td>
-            <td>
+            <td><a href="https://github.com/GUI-for-Cores/GUI.for.SingBox">GUI.for.SingBox</a>
             </td>
             <td>
                 <a href="https://sing-box.sagernet.org/zh/clients/"> sing-box</a>
