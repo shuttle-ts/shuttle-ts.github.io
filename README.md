@@ -1,11 +1,12 @@
 ## 廉价机场
 
-去机场购买他们提供的代理服务。
+选个廉价机场，注册并购买他们提供的代理服务。
 
 - [三毛机场](https://smjcdh.com/#/register?code=mnwOqUgN)
-- [一元机场](https://xn--4gq62f.com/#/register?code=iusP9RxU)
+- [一元机场](https://xn--4gq62f.com/#/register?code=iusP9RxU)  
+质量较差，备用
 
-购买完成后在主页复制出**订阅链接**，之后从下面任选一个客户端下载，在配置/订阅等地方导入。
+购买完成后在主页复制出**订阅链接**，之后从下面任选一个客户端下载，在配置/订阅等地方导入即可使用。
 
 ---
 
@@ -27,6 +28,7 @@
             <td rowspan="2">GUI 客户端</td>
             <td>
                 <a href="https://clash-verge-rev.github.io/install.html">Clash Verge rev</a>、<a href="https://github.com/GUI-for-Cores/GUI.for.Clash">GUI.for.Clash</a>
+                <br /><a href="https://github.com/mihomo-party-org/clash-party">Clash Party</a>、<a href="https://github.com/xishang0128/sparkle">Sparkle</a>
             </td>
             <td>
                 <a href="https://github.com/MetaCubeX/ClashMetaForAndroid/releases">Clash Meta</a>
@@ -42,17 +44,18 @@
         <tr>
             <td>Web 面板</td>
             <td colspan="3">
-                <a href="https://clash.razord.top/">razord</a>、<a href="https://yacd.haishan.me/">yacd</a>、<a
-                    href="https://metacubex.github.io/metacubexd/">metacubex</a>
+                <a href="https://yacd.metacubex.one/">yacd-meta</a>、<a href="https://metacubex.github.io/metacubexd/">metacubex</a>
             </td>
         </tr>
         <tr>
             <td>内核 / CLI</td>
-            <td colspan="3"><a href="https://wiki.metacubex.one/startup/">Clash Meta (mihomo)</a>
+            <td colspan="3"><a href="https://wiki.metacubex.one/startup/">mihomo (Clash Meta)</a>
             </td>
         </tr>
     </tbody>
 </table>
+
+> 更多内容可参考 [mihomo 文档](https://wiki.metacubex.one/startup/client/client/)。
 
 ### sing-box 家族
 
