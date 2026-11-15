@@ -2,7 +2,8 @@
 
 选个廉价机场，注册并购买他们提供的代理服务。
 
-- [三毛机场](https://smjcdh.com/#/register?code=mnwOqUgN)
+- [三毛机场](https://gw-2.smjc2.com/#/register?code=mnwOqUgN)  
+[官方防丢导航](https://三毛导航.com/)
 - [一元机场](https://xn--4gq62f.com/#/register?code=iusP9RxU)  
 质量较差，备用
 
